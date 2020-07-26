@@ -1,0 +1,1 @@
+add_executable(Decorator_1 Decorator_1.cpp)
